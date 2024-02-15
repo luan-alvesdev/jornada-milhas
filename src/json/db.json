@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "titulo": "Atacama",
+        "capa": "caminho da imagem, acho que link seria melhor",
+        "preco": "R$500",
+        "botao": "ver detalhes"
+    },
+    {
+        "id": "2",
+        "titulo": "caminho da imagem, acho que link seria melhor",
+        "capa": "Veneza",
+        "preco": "R$500",
+        "botao": "ver detalhes"
+    },
+    {
+        "id": "3",
+        "titulo": "caminho da imagem, acho que link seria melhor",
+        "capa": "Patagonia",
+        "preco": "R$500",
+        "botao": "ver detalhes"
+    },
+    {
+        "id": "4",
+        "titulo": "caminho da imagem, acho que link seria melhor",
+        "capa": "Grand Canyon",
+        "preco": "R$500",
+        "botao": "ver detalhes"
+    },
+    {
+        "id": "5",
+        "titulo": "caminho da imagem, acho que link seria melhor",
+        "capa": "Turquia",
+        "preco": "R$500",
+        "botao": "ver detalhes"
+    },
+    {
+        "id": "6",
+        "titulo": "caminho da imagem, acho que link seria melhor",
+        "capa": "Cordilheira dos Andes",
+        "preco": "R$500",
+        "botao": "ver detalhes"
+    }
+]

@@ -1,0 +1,28 @@
+.cabecalho {
+    background-color: var(--bg-terciary);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1.1em 20em;
+    white-space: nowrap;
+    height: 45px;
+}
+
+.cabecalho img {
+    width: 161px;
+}
+
+.cabecalhoLista a {
+    color: var(--color-primary);
+    font-weight: 400;
+    font-size: 1rem;
+    text-decoration: none;
+    display: flex;
+    justify-content: space-between;
+}
+
+.cabecalhoLista {
+    display: flex;
+    column-gap: 24px;
+}
+

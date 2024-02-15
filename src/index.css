@@ -1,0 +1,17 @@
+:root {
+  --font-family-primary: 'Roboto', sans-serif;
+  --color-primary: #FFFFFF;
+  --bg-secondary: #CAC4D0;
+  --bg-terciary: #000000;
+  --bt-color: #6750A4;
+  --font-color-primary: #49454F;
+  color: rgba(255, 255, 255, 0.87);
+
+}
+
+body {
+  font-family: var(--font-family-primary);
+  /* background-color: var(--bg-terciary); */
+  color: var(--font-color-primary);
+
+}
