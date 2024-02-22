@@ -13,8 +13,13 @@
     gap: 1.5rem;
 }
 
+.infos img {
+    width: 100px;
+    padding: 20px;
+}
+
 .titulo {
-    color: var(--M3-sys-light-on-surface, #1D1B20);
+    color: #1D1B20;
     text-align: center;
     font-family: Roboto;
     font-size: 1.5rem;
@@ -25,7 +30,7 @@
 }
 
 .preco {
-    color: var(--M3-sys-light-on-surface-variant, #49454F);
+    color: #49454F;
     text-align: center;
     font-family: Roboto;
     font-size: 2rem;
@@ -43,10 +48,15 @@
     align-self: stretch;
     color: #FFFFFF;
 
-    /* text-align: center; */
     font-family: Roboto;
     font-size: 1rem;
     font-style: normal;
     font-weight: 500;
     line-height: 1.5rem;
+    border: none;
+    cursor: pointer;
+}
+
+.botao:hover {
+    box-shadow: 0px 1px 3px 1px rgba(0, 0, 0, 0.15), 0px 1px 2px 0px rgba(0, 0, 0, 0.30);
 }

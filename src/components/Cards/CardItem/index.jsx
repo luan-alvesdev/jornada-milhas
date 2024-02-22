@@ -1,11 +1,11 @@
 import styles from "./CardItem.module.css"
 
-const CardItem = ({ pacote, preco, botao }) => {
+const CardItem = ({ imagem, titulo, preco, botao }) => {
     return (
         <div className={styles.card}>
-            <img src="" alt="" />
             <div className={styles.infos}>
-                <p className={styles.titulo}>{pacote}</p>
+                <img src={`/imagens${imagem}`} alt="" />
+                <p className={styles.titulo}>{titulo}</p>
                 <p className={styles.preco}>{preco}</p>
                 <button className={styles.botao}>{botao}</button>
             </div>

@@ -10,8 +10,8 @@ function Cards() {
                 {pacotes.map((pacote) => (
                     <CardItem
                         key={pacote.id}
+                        imagem={pacote.imagem}
                         titulo={pacote.titulo}
-                        capa={pacote.capa}
                         preco={pacote.preco}
                         botao={pacote.botao}
                     />

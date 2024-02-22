@@ -6,12 +6,10 @@
   --bt-color: #6750A4;
   --font-color-primary: #49454F;
   color: rgba(255, 255, 255, 0.87);
-
 }
 
 body {
   font-family: var(--font-family-primary);
   /* background-color: var(--bg-terciary); */
   color: var(--font-color-primary);
-
 }

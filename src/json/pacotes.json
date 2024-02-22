@@ -1,44 +1,44 @@
 [
     {
         "id": 1,
+        "imagem": "/card-atacama.png",
         "titulo": "Atacama",
-        "capa": "caminho da imagem, acho que link seria melhor",
         "preco": "R$500",
-        "botao": "ver detalhes"
+        "botao": "Ver detalhes"
     },
     {
         "id": "2",
-        "titulo": "caminho da imagem, acho que link seria melhor",
-        "capa": "Veneza",
+        "imagem": "/card-veneza.png",
+        "titulo": "Veneza",
         "preco": "R$500",
-        "botao": "ver detalhes"
+        "botao": "Ver detalhes"
     },
     {
         "id": "3",
-        "titulo": "caminho da imagem, acho que link seria melhor",
-        "capa": "Patagonia",
+        "imagem": "/card-patagonia.png",
+        "titulo": "Patagonia",
         "preco": "R$500",
-        "botao": "ver detalhes"
+        "botao": "Ver detalhes"
     },
     {
         "id": "4",
-        "titulo": "caminho da imagem, acho que link seria melhor",
-        "capa": "Grand Canyon",
+        "imagem": "/card-grand-canyon.png",
+        "titulo": "Grand Canyon",
         "preco": "R$500",
-        "botao": "ver detalhes"
+        "botao": "Ver detalhes"
     },
     {
         "id": "5",
-        "titulo": "caminho da imagem, acho que link seria melhor",
-        "capa": "Turquia",
+        "imagem": "/card-turquia.png",
+        "titulo": "Turquia",
         "preco": "R$500",
-        "botao": "ver detalhes"
+        "botao": "Ver detalhes"
     },
     {
         "id": "6",
-        "titulo": "caminho da imagem, acho que link seria melhor",
-        "capa": "Cordilheira dos Andes",
+        "imagem": "/card-cordilheira-dos-andes.png",
+        "titulo": "Cordilheira dos Andes",
         "preco": "R$500",
-        "botao": "ver detalhes"
+        "botao": "Ver detalhes"
     }
 ]
